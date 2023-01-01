@@ -15,3 +15,6 @@ KaggleとかAtCoderやっています。
 
 - AtCoder
   - https://atcoder.jp/users/LyricalMaestro
+
+- Kaggle
+  - https://www.kaggle.com/shinichitanimoto
