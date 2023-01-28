@@ -5,9 +5,10 @@
 KaggleとかAtCoderやっています。
 
 
-## 2023/01/01現在のAtCoderの成績
+## 2023/01/28現在のAtCoderの成績
 
-- AtCoder Algorithm 🔵青, Rank A (highest 1624)
+- AtCoder Algorithm 水色…, Rank A (highest 1624)
+  - 今年１月になって調子悪くてこの体たらく。。。(rateは1550前後?) 
 - AtCoder Heuristic 水色, Rank B (highest 1234)
 
 
